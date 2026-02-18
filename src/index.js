@@ -13,6 +13,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import ScrollTop from './scrolltop/scroll';
 import Login from './login/login';
 import Register from './login/registration/registration';
+// import { SpeedInsights } from "@vercel/speed-insights/react"
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
